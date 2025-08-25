@@ -1,0 +1,488 @@
+[
+  {
+    "id": 1,
+    "title": "Entry Gate",
+    "file": "en_kapitola_1.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 2,
+    "title": "Castle Courtyard",
+    "file": "en_kapitola_2.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 3,
+    "title": "Viewpoint",
+    "file": "en_kapitola_3.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 4,
+    "title": "Castle Wine Cellars",
+    "file": "en_kapitola_4.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 5,
+    "title": "Castle Taproom",
+    "file": "en_kapitola_5.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 6,
+    "title": "Castle Dungeon – The Dry Cellar",
+    "file": "en_kapitola_6.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 7,
+    "title": "Castle Courtyard (Inner Core)",
+    "file": "en_kapitola_7.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 8,
+    "title": "Lower Courtyard by the Well",
+    "file": "en_kapitola_8.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 9,
+    "title": "The Well",
+    "file": "en_kapitola_9.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 10,
+    "title": "The Chapel",
+    "file": "en_kapitola_10.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 11,
+    "title": "The Tower",
+    "file": "en_kapitola_11.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 12,
+    "title": "Chemin de Ronde",
+    "file": "en_kapitola_12.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 13,
+    "title": "Staircase",
+    "file": "en_kapitola_13.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 1,
+    "title": "Eingangstor",
+    "file": "de_kapitola_1.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 2,
+    "title": "Burghof",
+    "file": "de_kapitola_2.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 3,
+    "title": "Aussichtspunkt",
+    "file": "de_kapitola_3.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 4,
+    "title": "Burgweinkeller",
+    "file": "de_kapitola_4.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 5,
+    "title": "Burgtaverne",
+    "file": "de_kapitola_5.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 6,
+    "title": "Burgverlies – Der trockene Keller",
+    "file": "de_kapitola_6.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 7,
+    "title": "Burghof (Innerer Kern)",
+    "file": "de_kapitola_7.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 8,
+    "title": "Unterer Hof am Brunnen",
+    "file": "de_kapitola_8.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 9,
+    "title": "Der Brunnen",
+    "file": "de_kapitola_9.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 10,
+    "title": "Die Kapelle",
+    "file": "de_kapitola_10.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 11,
+    "title": "Der Turm",
+    "file": "de_kapitola_11.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 12,
+    "title": "Wehrgang",
+    "file": "de_kapitola_12.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 13,
+    "title": "Treppe",
+    "file": "de_kapitola_13.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 1,
+    "title": "Входные ворота",
+    "file": "ru_kapitola_1.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 2,
+    "title": "Замковый двор",
+    "file": "ru_kapitola_2.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 3,
+    "title": "Смотровая площадка",
+    "file": "ru_kapitola_3.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 4,
+    "title": "Замковые винные погреба",
+    "file": "ru_kapitola_4.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 5,
+    "title": "Замковая таверна",
+    "file": "ru_kapitola_5.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 6,
+    "title": "Бургхранилище – Сухой подвал",
+    "file": "ru_kapitola_6.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 7,
+    "title": "Замковый двор (Внутреннее ядро)",
+    "file": "ru_kapitola_7.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 8,
+    "title": "Нижний двор у колодца",
+    "file": "ru_kapitola_8.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 9,
+    "title": "Колодец",
+    "file": "ru_kapitola_9.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 10,
+    "title": "Часовня",
+    "file": "ru_kapitola_10.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 11,
+    "title": "Башня",
+    "file": "ru_kapitola_11.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 12,
+    "title": "Боевая галерея",
+    "file": "ru_kapitola_12.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 13,
+    "title": "Лестница",
+    "file": "ru_kapitola_13.mp3",
+    "tourType": "castle"
+  },
+  {
+    "id": 1,
+    "title": "Foyer",
+    "file": "en_zamek_1.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 2,
+    "title": "Colloredo-Mannsfeld Lounge (19th–20th Century)",
+    "file": "en_zamek_2.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 3,
+    "title": "Archaeological Finds (circa 500 BCE–1945)",
+    "file": "en_zamek_3.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 4,
+    "title": "Romanesque Period – Ottokar II of Bohemia",
+    "file": "en_zamek_4.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 5,
+    "title": "Gothic Period (14th Century) – Emperor Charles IV",
+    "file": "en_zamek_5.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 6,
+    "title": "Emperor Sigismund (15th Century)",
+    "file": "en_zamek_6.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 7,
+    "title": "Renaissance – Emperor Rudolf II (16th–17th Century)",
+    "file": "en_zamek_7.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 8,
+    "title": "Baroque – The Habsburgs (17th–19th Century)",
+    "file": "en_zamek_8.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 9,
+    "title": "Strousberg Lounge (19th Century)",
+    "file": "en_zamek_9.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 10,
+    "title": "Masonic Lounge – Alphonse Mucha (20th Century)",
+    "file": "en_zamek_10.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 11,
+    "title": "Art Nouveau Lounge – Alphonse Mucha (late 19th–early 20th Century)",
+    "file": "en_zamek_11.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 12,
+    "title": "Mucha's Hall – The Atelier (late 19th–20th Century)",
+    "file": "en_zamek_12.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 13,
+    "title": "Castle Corridor",
+    "file": "en_zamek_13.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 14,
+    "title": "Foyer (Exit)",
+    "file": "en_zamek_14.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 1,
+    "title": "Foyer",
+    "file": "de_zamek_1.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 2,
+    "title": "Colloredo-Mannsfeld-Salon (19. und 20. Jahrhundert)",
+    "file": "de_zamek_2.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 3,
+    "title": "Archäologische Funde aus der Zeit von 500 v. Chr. bis 1945.",
+    "file": "de_zamek_3.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 4,
+    "title": "Romanische Zeit – König Přemysl Otakar der Zweite",
+    "file": "de_zamek_4.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 5,
+    "title": "Gotik (14. Jahrhundert) – Kaiser Karl der Vierte.",
+    "file": "de_zamek_5.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 6,
+    "title": "Kaiser Sigismund (15. Jahrhundert)",
+    "file": "de_zamek_6.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 7,
+    "title": "Renaissance – Kaiser Rudolf II. (16. bis 17. Jahrhundert)",
+    "file": "de_zamek_7.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 8,
+    "title": "Barock – Habsburger (17. bis 19. Jahrhundert)",
+    "file": "de_zamek_8.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 9,
+    "title": "Strousberg-Salon (19. Jahrhundert)",
+    "file": "de_zamek_9.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 10,
+    "title": "Freimaurersalon – Alfons Mucha (20. Jahrhundert)",
+    "file": "de_zamek_10.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 11,
+    "title": "Jugendstil-Salon – Alfons Mucha (19. bis 20. Jahrhundert)",
+    "file": "de_zamek_11.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 12,
+    "title": "Mucha-Saal – Atelier (19. bis 20. Jahrhundert)",
+    "file": "de_zamek_12.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 13,
+    "title": "Schlossflur",
+    "file": "de_zamek_13.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 14,
+    "title": "Foyer (Ausgang)",
+    "file": "de_zamek_14.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 1,
+    "title": "Фойе",
+    "file": "ru_zamek_1.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 2,
+    "title": "Салон Коллоредо-Маннсфельд (19 и 20 века)",
+    "file": "ru_zamek_2.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 3,
+    "title": "Археологические находки периода с 500 года до н. э. по 1945 год.",
+    "file": "ru_zamek_3.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 4,
+    "title": "Романский период – король Пржемысл Отакар II.",
+    "file": "ru_zamek_4.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 5,
+    "title": "Готика (XIV век) – император Карл IV.",
+    "file": "ru_zamek_5.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 6,
+    "title": "Император Сигизмунд (15 век)",
+    "file": "ru_zamek_6.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 7,
+    "title": "Ренессанс – император Рудольф II (16 век – 17 век)",
+    "file": "ru_zamek_7.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 8,
+    "title": "Барокко – Габсбурги (XVII век – XIX век)",
+    "file": "ru_zamek_8.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 9,
+    "title": "Салон Строусберга (19 век)",
+    "file": "ru_zamek_9.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 10,
+    "title": "Масонский салон – Альфонс Муха (20 век)",
+    "file": "ru_zamek_10.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 11,
+    "title": "Сецессионный салон – Альфонс Муха (19 век – 20 век)",
+    "file": "ru_zamek_11.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 12,
+    "title": "Зал Мухи – Ателье (19 век – 20 век)",
+    "file": "ru_zamek_12.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 13,
+    "title": "Замковый коридор",
+    "file": "ru_zamek_13.mp3",
+    "tourType": "palace"
+  },
+  {
+    "id": 14,
+    "title": "Фойе (выход)",
+    "file": "ru_zamek_14.mp3",
+    "tourType": "palace"
+  }
+]
